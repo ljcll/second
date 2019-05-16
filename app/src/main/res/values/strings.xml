@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">second</string>
+    <string name="etext">请输入摄氏度</string>
+    <string name="btn">转换为华氏度</string>
+    <string name="activity_my_list2">activity_my_list2</string>
+    <string name="ItemDetail">ItemDetail</string>
+    <string name="ItemTitle">ItemTitle</string>
+    <string name="mylist">mylist</string>
+    <string name="nodata">nodata</string>
+</resources>
